@@ -29,5 +29,5 @@ Une application Android ludique et interactive développée avec Jetpack Compose
 
 1. **Cloner le repository**
    ```bash
-   git clone https://github.com/votre-username/lemonade-app.git
+   git clone https://github.com/NodeCodeAI/Lemonade.git
    cd lemonade-app
