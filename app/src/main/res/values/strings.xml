@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lemonade</string>
+    <string name="tap_tree">Appuie sur le citronnier pour choisir un citron</string>
+    <string name="squeeze_lemon">Appuie sur le citron pour le presser</string>
+    <string name="drink_lemonade">Appuie sur le verre pour boire la citronnade</string>
+    <string name="restart">Appuie pour recommencer</string>
+    <string name="empty">Tap the empty glass to start again</string>
+    <string name="lemon_tree">Citronnier avec des citrons mûrs</string>
+    <string name="lemon_squeeze">Citron en cours de pressage</string>
+    <string name="lemon_drink">Verre de citronnade rafraîchissante</string>
+    <string name="empty_glass">Verre vide, appuie pour recommencer</string>
+</resources>
